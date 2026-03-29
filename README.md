@@ -18,6 +18,6 @@ Customer Response (Target Variable). Total Records: ~2240. After Cleaning: ~2230
 📊 Visualizations: Pairplot (Income, Recency, Age, Total Spending), Correlation Heatmap, Distribution Plots.
 
 🎯 Objective: To analyze customer behavior and build a machine learning model that predicts whether a customer will respond to marketing campaigns. 
-🔮 Future Improvements: Train multiple ML models (Logistic Regression, Random Forest), Hyperparameter tuning, Deploy using Streamlit, and Create Dashboard.
+🔮 Future Improvements: Train multiple ML models (Logistic Regression, Random Forest), Hyperparameter tuning, Deploy using Streamlit, and Create a Dashboard.
 
-👩‍💻 Author Preity Dhali B.Tech CSE (AIML) GitHub: 
+👩‍💻 Author Preity Dhali B.Tech CSE (AIML) GitHub: https://github.com/preitydhali2-hub/Smartcart-E-Commerce-Customer-Clustering-System/tree/main
